@@ -14,13 +14,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kacemikbel&label=Profile%20views&color=0e75b6&style=flat" alt="kacemikbel" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/kacemikbel](https://github.com/kacemikbel)
-
-- 📫 How to reach me **kassemikbel56@gmail.com**
 
 
+ **kassemikbel56@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+<h3 align="center">Skills:</h3>
 <p align="left">
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> </a>
 
@@ -49,9 +49,9 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacemikbel&show_icons=true&locale=en&layout=compact" alt="kacemikbel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacemikbel&theme=blueberry&count_private=true&hide_border=true&line_height=20show_icons=true&locale=en&layout=compact" alt="kacemikbel" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kacemikbel&show_icons=true&locale=en" alt="kacemikbel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kacemikbel&theme=blueberry&count_private=true&hide_border=true&line_height=20show_icons=true&locale=en" alt="kacemikbel" /></p>
 
 
 
