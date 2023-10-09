@@ -22,7 +22,7 @@
 
 <h3 align="center">Skills:</h3>
 <p align="left">
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> </a>
+
 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a>
@@ -41,6 +41,7 @@
         <a href="https://www.protopie.io/" target="_blank"> <img src="./assets/protopie-seeklogo.com.svg" alt="protopie-seeklogo" width="100" height="100"></a>
         <a href="https://spline.design/" target="_blank"> <img src="./spline-logos-idx0zotd8Y.png" alt="spline" width="80" height="80"></a>
         <a href="https://www.raspberrypi.com/" target="_blank"> <img src="./assets/raspberry-pi-seeklogo.com.svg" alt="Rasberry" width="80" height="80"></a>
+         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> </a>
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacemikbel&theme=blueberry&count_private=true&hide_border=true&line_height=20show_icons=true&locale=en&layout=compact" alt="kacemikbel" /></p>
