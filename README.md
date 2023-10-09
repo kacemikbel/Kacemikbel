@@ -22,8 +22,6 @@
 
 <h3 align="center">Skills:</h3>
 <p align="left">
-
-
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> 
@@ -36,8 +34,7 @@
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height="80"/> </a>
        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a>
-
-<a href="https://webflow.com/made-in-webflow" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="webflow" width="80" height="80" /> </a>
+        <a href="https://webflow.com/made-in-webflow" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="webflow" width="80" height="80" /> </a>
         <a href="https://www.protopie.io/" target="_blank"> <img src="./assets/protopie-seeklogo.com.svg" alt="protopie-seeklogo" width="100" height="100"></a>
         <a href="https://spline.design/" target="_blank"> <img src="./spline-logos-idx0zotd8Y.png" alt="spline" width="80" height="80"></a>
         <a href="https://www.raspberrypi.com/" target="_blank"> <img src="./assets/raspberry-pi-seeklogo.com.svg" alt="Rasberry" width="80" height="80"></a>
