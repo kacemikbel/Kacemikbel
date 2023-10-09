@@ -11,12 +11,12 @@
 <h3 align="center"> Hi 👋, I'm Kacem ikbel. Product designer and Iot web developper</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kacemikbel&label=Profile%20views&color=0e75b6&style=flat" alt="kacemikbel" /> </p>
 
 
 
 
- **kassemikbel56@gmail.com**
+
+ kassemikbel56@gmail.com
 
 
 
