@@ -53,15 +53,15 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kacemikbel&show_icons=true&locale=en" alt="kacemikbel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kacemikbel&" alt="kacemikbel" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/ikbel kassem" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikbel kassem" height="30" width="40" /></a>
-<a href="https://fb.com/med ikbel" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="med ikbel" height="30" width="40" /></a>
-<a href="https://instagram.com/ikbel-kacem" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikbel-kacem" height="30" width="40" /></a>
-<a href="https://dribbble.com/kacem ikbel" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kacem ikbel" height="30" width="40" /></a>
-<a href="https://www.behance.net/kassem ikbel" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kassem ikbel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ikbel kassem" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikbel kassem" height="30" width="80" /></a>
+<a href="https://fb.com/med ikbel" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="med ikbel" height="30" width="80" /></a>
+<a href="https://instagram.com/ikbel-kacem" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikbel-kacem" height="30" width="80" /></a>
+<a href="https://dribbble.com/kacem ikbel" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kacem ikbel" height="30" width="80" /></a>
+<a href="https://www.behance.net/kassem ikbel" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kassem ikbel" height="30" width="80" /></a>
 </p>
     
 </body>
