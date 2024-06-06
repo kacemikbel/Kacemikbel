@@ -16,7 +16,7 @@
 
 <p align="center">
   <!-- Skills Icons -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,arduino,raspberrypi,linux,figma,photoshop&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,typescript,java,php,git,react,python,c,figma,webflow&theme=light" />
 </p>
 
 ---
