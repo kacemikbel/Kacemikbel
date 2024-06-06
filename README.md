@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Product Designer & IoT Web Developer</h3>
 
 <p align="center">
-  <img src="https://badgen.net/badge/Developer/Passionate/purple?icon=terminal&scale=4">
+  <img src="https://badgen.net/badge/Developer/Designer/purple?icon=terminal&scale=4">
 </p>
 
 <p align="center">
